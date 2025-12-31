@@ -1,126 +1,153 @@
-<h1 align="center">Hi there 👋, I'm Alvaro Franco</h1>
-<h3 align="center">Full Stack Developer | Technical Lead | Enterprise Systems</h3>
+<h1 align="center">👋 Hi, I'm Alvaro Cerna Ramos</h1>
+<h3 align="center">Full Stack Developer · Technical Lead · Enterprise Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Specialist;ERP+%26+Business+Systems;Technical+Lead;Building+Real+World+Software&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Technical+Lead;Enterprise+%26+ERP+Systems;Backend+Specialist;Building+Production+Ready+Software&center=true&width=680&height=45">
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💼 Professional Profile
 
 <pre>
 💻 Full Stack Developer with strong backend expertise
 🎓 Bachelor in Computer Science
-🏗️ Technical Lead on enterprise and ERP-like systems
-🧠 End-to-end development: DB → Backend → Frontend → Cloud
-☁️ Production deployments and system maintenance
-📊 Business-oriented and scalable software solutions
+🏗️ Technical Lead on enterprise and ERP-like platforms
+🗄️ Strong expertise in relational databases and data modeling
+☁️ End-to-end ownership: Database → Backend → Frontend → Cloud
+📊 Production systems aligned with real business processes
 </pre>
 
-I have **3+ years of experience** developing and leading **enterprise platforms, ERP systems, e-learning solutions and business applications**, taking responsibility for the **entire software lifecycle**.
+I am a **Full Stack Developer and Technical Lead** with solid experience building
+**enterprise systems, ERP platforms, e-learning solutions and business applications**
+used in real production environments.
+
+I take full ownership of the development lifecycle:  
+from **relational database design**, backend logic and APIs,  
+to frontend integration, deployment and long-term system maintenance.
+
+I have strong experience working with **relational databases**, designing schemas,
+optimizing queries and ensuring data integrity using  
+**PostgreSQL, MySQL and SQL Server**.
 
 ---
 
 ## 🏢 Professional Experience
 
-### 🔹 GPD CONSULTORES
-- Technical Lead & Full Stack Developer
-- Designed and developed **enterprise & educational platforms**
-- Built ERP-like systems:
-  - Users & Roles
-  - Enrollments
-  - Certifications (QR validation)
-  - Reports & Administration
-- Designed relational database models
-- API integrations and cloud deployment
-- Continuous system evolution and support
+### 🔹 GPD CONSULTORES  
+**Role:** Technical Lead · Full Stack Developer
+
+- Led the **end-to-end design and development** of enterprise and educational platforms
+- Designed **relational data models** and system architecture from scratch
+- Built **ERP-like systems** including:
+  - User, role and permission management
+  - Student enrollment and academic tracking
+  - Certificate generation and QR-based public validation
+  - Administrative dashboards and reports
+- Developed backend logic, REST APIs and frontend interfaces
+- Designed and managed databases using **PostgreSQL and MySQL**
+- Deployed systems in cloud environments and ensured production stability
+- Delivered technical and functional documentation
+- Provided continuous evolution, support and maintenance
 
 ---
 
-### 🔹 TECK – SeguridadTECKPERU
-- Technical Lead & Full Stack Developer
-- Corporate e-learning platform
-- System architecture and database design
-- Course, evaluation and certification modules
-- Full stack development and maintenance
+### 🔹 TECK – SeguridadTECKPERU  
+**Role:** Technical Lead · Full Stack Developer
+
+- Led development of a **corporate e-learning platform**
+- Owned the system from **architecture to production**
+- Designed database schemas and business logic
+- Implemented:
+  - Course and training management
+  - Evaluations, grading and progress tracking
+  - Certificate issuance and public verification
+- Worked with **PostgreSQL and SQL Server** in structured environments
+- Ensured scalability, data integrity and long-term maintainability
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 🦷 **Clinical Management System – Eileen Dent**  
-🍹 **Landing Pages – Montana Rum**  
+Full stack system for patient management, appointments, clinical history and
+role-based access control.
+
+🍹 **Corporate Landing Pages – Montana Rum**  
+High-performance brand-oriented landing pages focused on visibility and conversion.
+
 🎧 **Business Management System – Discoteca Sabbath**  
+Internal administrative system for operational control and data organization.
 
-> Full stack development, relational databases, secure access and scalable architecture.
-
----
-
-## 💻 Tech Stack
-
-### 🧠 Languages
-![Python](https://img.shields.io/badge/python-darkblue.svg?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/sql-003B57.svg?style=for-the-badge)
+> All projects developed with a strong focus on **robust architecture, data integrity,
+security and real business workflows**.
 
 ---
 
-### ⚙️ Backend
-![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/rest-api-0A66C2.svg?style=for-the-badge)
+## 🧰 Technical Stack
+
+### 🔹 Programming Languages
+![Python](https://img.shields.io/badge/Python-0B3C5D?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1F3C88?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-003B73?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1C2C5B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-002B5B?style=for-the-badge)
 
 ---
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🔹 Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-0A4D8C?style=for-the-badge)
 
 ---
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 🔹 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-0F4C75?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1B6CA8?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-1F3C88?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-### ☁️ Cloud & Tools
-![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🔹 Databases & Data Management
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F4E79?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-003B73?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-0A2A66?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 🔹 Cloud & Tools
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-1A73E8?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0F2027?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alvarofrk&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alvarofrk&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alvarofrk&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarofrk&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## ✉️ Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="mailto:alvaro.cerna.fr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-alvaro.cerna.fr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:correo@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
+
+⭐ <b>Building reliable systems that businesses depend on.</b>
